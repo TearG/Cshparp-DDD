@@ -15,6 +15,10 @@ namespace Aurora.IntegrationTests.Features
     using TechTalk.SpecFlow;
     using System;
     using System.Linq;
+
+
+
+    
     
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "3.4.0.0")]
